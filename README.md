@@ -5,7 +5,7 @@
 - 配置<br/>
 pip install -r requirements.txt
 - 在number.py文件修改成你的qq账号和密码<br/>
-uvicorn main:app --reload
+uvicorn main:app --reload <br/>
 Tips:建议直接用pycharm打开,配置python环境
 
 1. 访问/start获取cookie
@@ -14,7 +14,7 @@ Tips:建议直接用pycharm打开,配置python环境
 
 
 ## Client
-npm install 
+npm install <br/>
 npm run serve
 
 ## 结果展示
