@@ -4,37 +4,37 @@ node_modules/
 
 
 # Byte-compiled / optimized / DLL files
-__pycache__/
+FastApi-ScrapeQuora/__pycache__/
 *.py[cod]
 
 # C extensions
 *.so
 
 # Distribution / packaging
-bin/
-build/
-develop-eggs/
-dist/
-eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-*.egg-info/
-.installed.cfg
-*.egg
+FastApi-ScrapeQuora/bin/
+FastApi-ScrapeQuora/build/
+FastApi-ScrapeQuora/develop-eggs/
+FastApi-ScrapeQuora/dist/
+FastApi-ScrapeQuora/eggs/
+FastApi-ScrapeQuora/lib/
+FastApi-ScrapeQuora/lib64/
+FastApi-ScrapeQuora/parts/
+FastApi-ScrapeQuora/sdist/
+FastApi-ScrapeQuora/var/
+FastApi-ScrapeQuora/*.egg-info/
+FastApi-ScrapeQuora/.installed.cfg
+FastApi-ScrapeQuora/*.egg
 
 # Installer logs
-pip-log.txt
-pip-delete-this-directory.txt
+FastApi-ScrapeQuora/pip-log.txt
+FastApi-ScrapeQuora/pip-delete-this-directory.txt
 
 # Unit test / coverage reports
-.tox/
-.coverage
-.cache
-nosetests.xml
-coverage.xml
+FastApi-ScrapeQuora/.tox/
+FastApi-ScrapeQuora/.coverage
+FastApi-ScrapeQuora/.cache
+FastApi-ScrapeQuora/nosetests.xml
+FastApi-ScrapeQuora/coverage.xml
 
 # Translations
 *.mo
@@ -45,13 +45,13 @@ coverage.xml
 .pydevproject
 
 # Rope
-.ropeproject
+FastApi-ScrapeQuora/.ropeproject
 
 # Django stuff:
-*.log
+FastApi-ScrapeQuora/*.log
 *.pot
 
 # Sphinx documentation
-docs/_build/
+FastApi-ScrapeQuora/docs/_build/
 
 
